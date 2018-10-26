@@ -4,9 +4,11 @@
 
 ### Pre-Requirements
 
-### Frontend Roadmap Checklist
+### Frontend Roadmap
 
-### Backend Roadmap Checklist
+### Backend Roadmap
+
+### DevOps Roadmap
 
 ### Acknowledgments
 
