@@ -1,4 +1,6 @@
-![](./images/title.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/GregSithole/Web-Developer-Roadmap-Checklist/master/images/title.png">
+</p>
 
 ### Disclaimer
 
