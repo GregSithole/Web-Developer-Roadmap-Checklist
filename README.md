@@ -1,4 +1,3 @@
-
 <p align="center">    
   <img src="https://raw.githubusercontent.com/GregSithole/Web-Developer-Roadmap-Checklist/master/images/title.png">    
 </p>   
@@ -31,7 +30,28 @@ Below you'll find a set of charts which will demonstrate the paths that can be t
 
  - [ ] HTML
  - [ ] CSS
+	 - [ ] Responsive Web
+	 - [ ] CSS Frameworks
+		 - [ ] Foundation
+		 - [ ] Bootstrap
+		 - [ ] Materalize CSS
+		 - [ ] Semantc UI
+	 - [ ] Preprocessors
+		 - [ ] Sass/Scss
+		 - [ ] Less
+		 - [ ] Stylus
+		 - [ ] PostCSS 
  - [ ] Javascript
+	 - [ ] ES6, ES7
+	 - [ ] Typescript
+	 - [ ] Flow
+	 - [ ] Testing
+		 - [ ] Jest
+		 - [ ] Mocha
+		 - [ ] Jasmine
+	 - [ ] Package Managers
+		 - [ ] yarn
+		 - [ ] npm
 
 ### Backend Roadmap    
 <p align="center">    
