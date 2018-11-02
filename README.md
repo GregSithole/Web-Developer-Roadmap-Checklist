@@ -13,21 +13,45 @@ Below you'll find a set of charts which will demonstrate the paths that can be t
 <p align="center">    
   <img src="https://raw.githubusercontent.com/GregSithole/Web-Developer-Roadmap-Checklist/master/images/requirements.png">    
 </p>   
+
+ - [ ] Git - Version Control
+ - [ ] SSH
+ - [ ] HTTP/HTTPS and APIs
+ - [ ] Basic Terminal Usage
+ - [ ] Research Patterns
+ - [ ] Data Structures & Algorithms
+ - [ ] Character Encodings
+ - [ ] Github
+
     
 ### Frontend Roadmap   
 <p align="center">    
   <img src="https://raw.githubusercontent.com/GregSithole/Web-Developer-Roadmap-Checklist/master/images/frontend.png">    
 </p> 
 
- ### Backend Roadmap    
+ - [ ] HTML
+ - [ ] CSS
+ - [ ] Javascript
+
+### Backend Roadmap    
 <p align="center">    
   <img src="https://raw.githubusercontent.com/GregSithole/Web-Developer-Roadmap-Checklist/master/images/backend.png">    
 </p> 
 
- ### DevOps Roadmap    
+ - [ ] Ruby
+ - [ ] Python
+ - [ ] Node.js
+ - [ ] PHP
+
+### DevOps Roadmap    
 <p align="center">    
   <img src="https://raw.githubusercontent.com/GregSithole/Web-Developer-Roadmap-Checklist/master/images/devops.png">    
 </p> 
+
+ - [ ] Operating System
+ - [ ] Cloud
+ - [ ] CI/CD
+ - [ ] Automation
 
  ### Acknowledgments    
  - https://github.com/kamranahmedse/developer-roadmap    
